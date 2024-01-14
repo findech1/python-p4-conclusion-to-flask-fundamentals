@@ -9,7 +9,7 @@
 
 ***
 
-## Key Vocab
+## Key Vocabulary
 
 - **Web Framework**: software that is designed to support the development of
   web applications. Web frameworks provide built-in tools for generating web
